@@ -8,3 +8,4 @@ jaraco.text==3.7.0
 # required for importlib_resources on older Pythons
 zipp==3.7.0
 tomli==1.2.3
+# validate-pyproject[all]==0.3.2  # Special handling, don't remove
